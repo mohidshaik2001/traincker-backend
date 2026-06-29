@@ -1,0 +1,2 @@
+export declare const getCustomizedPlan: (req: import("express").Request, res: import("express").Response, next: import("express").NextFunction) => void;
+//# sourceMappingURL=customizedPlan.controllers.d.ts.map

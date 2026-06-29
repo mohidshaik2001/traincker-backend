@@ -1,0 +1,2 @@
+export declare const getRandomExercises: (req: import("express").Request, res: import("express").Response, next: import("express").NextFunction) => void;
+//# sourceMappingURL=exercise.controllers.d.ts.map
